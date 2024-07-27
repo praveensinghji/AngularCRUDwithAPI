@@ -1,4 +1,4 @@
-#Angular CRUD with API
+#Angular CRUD with Spring boot API
 
 * This project is full project with Spring Boot API.
 * For Angular code you can switch the origin main to master and see my Angular code.
